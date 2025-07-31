@@ -45,7 +45,7 @@ Welcome to my personal portfolio website — a fully responsive, no-JavaScript, 
 
 ## 🌍 Live Preview
 
-> 📡 Coming Soon — [Deploy it via GitHub Pages](https://pages.github.com)
+> 📡 Portfolio Website Link — [Deploy it via GitHub Pages](https://predeanalyst.github.io/Precious-Iyekeoretin-s-Portfolio/)
 
 ---
 
